@@ -21,5 +21,11 @@
             "email": "info@vfixtechnology.com"
         }
     ]
+    "repositories": [
+  {
+    "type": "vcs",
+    "url": "https://github.com/vfixtechnology/bagisto-nexus-theme"
+  }
+]
     
 }
